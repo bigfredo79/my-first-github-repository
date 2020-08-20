@@ -1,2 +1,4 @@
 # my-first-github-repository
-voici mon 1st github repo
+Here is my first github reposiory. Let's get started with GitHub
+
+README.md file was jsut edited manually
